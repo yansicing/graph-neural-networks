@@ -9,4 +9,5 @@
 
 ## traffic-forecasting
 
-Spatio-temporal data and time series prediction
+- Spatio-temporal data 
+- time series prediction
